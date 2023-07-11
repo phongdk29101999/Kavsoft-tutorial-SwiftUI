@@ -4,6 +4,6 @@
 # Introduct
 The only purpose of this repo I created is just for learning SwiftUI and comminications. All of Business incomes and Copyrights belong to Kavsoft at Home | Kavsoft.
 
-Kindly welcome to become a patron to support them! ❤️
+Thank To [Kavsoft](https://kavsoft.dev)
 
 # App demo
